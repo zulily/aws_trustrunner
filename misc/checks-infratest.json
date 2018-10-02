@@ -1,0 +1,105 @@
+{
+  "checks" : [ {
+      "check_id" : "ePs02jT06w",
+      "freq_mins" : 0,
+      "warning" : "arn:aws:sns:us-east-1:(AWS_ACCT_ID:SNS_TOPIC_NAME)",
+      "error" : "arn:aws:sns:us-east-1:(AWS_ACCT_ID:SNS_TOPIC_NAME)"
+      },
+      {
+      "check_id" : "rSs93HQwa1",
+      "freq_mins" : 0,
+      "warning" : "arn:aws:sns:us-east-1:(AWS_ACCT_ID:SNS_TOPIC_NAME)",
+      "error" : "arn:aws:sns:us-east-1:(AWS_ACCT_ID:SNS_TOPIC_NAME)"
+      },
+      {
+      "check_id" : "nNauJisYIT",
+      "freq_mins" : 15,
+      "warning" : "arn:aws:sns:us-east-1:(AWS_ACCT_ID:SNS_TOPIC_NAME)",
+      "error" : "arn:aws:sns:us-east-1:(AWS_ACCT_ID:SNS_TOPIC_NAME)"
+      },
+      {
+      "check_id" : "c9D319e7sG",
+      "freq_mins" : 15,
+      "warning" : "arn:aws:sns:us-east-1:(AWS_ACCT_ID:SNS_TOPIC_NAME)",
+      "error" : "arn:aws:sns:us-east-1:(AWS_ACCT_ID:SNS_TOPIC_NAME)"
+      },
+      {
+      "check_id" : "Pfx0RwqBli",
+      "freq_mins" : 15,
+      "warning" : "arn:aws:sns:us-east-1:(AWS_ACCT_ID:SNS_TOPIC_NAME)",
+      "error" : "arn:aws:sns:us-east-1:(AWS_ACCT_ID:SNS_TOPIC_NAME)"
+      },
+      {
+      "check_id" : "vjafUGJ9H0",
+      "freq_mins" : 15,
+      "warning" : "arn:aws:sns:us-east-1:(AWS_ACCT_ID:SNS_TOPIC_NAME)",
+      "error" : "arn:aws:sns:us-east-1:(AWS_ACCT_ID:SNS_TOPIC_NAME)"
+      },
+      {
+      "check_id" : "N425c450f2",
+      "freq_mins" : 15,
+      "warning" : "arn:aws:sns:us-east-1:(AWS_ACCT_ID:SNS_TOPIC_NAME)",
+      "error" : "arn:aws:sns:us-east-1:(AWS_ACCT_ID:SNS_TOPIC_NAME)"
+      },
+      {
+      "check_id" : "N430c450f2",
+      "freq_mins" : 15,
+      "warning" : "arn:aws:sns:us-east-1:(AWS_ACCT_ID:SNS_TOPIC_NAME)",
+      "error" : "arn:aws:sns:us-east-1:(AWS_ACCT_ID:SNS_TOPIC_NAME)"
+      },
+      {
+      "check_id" : "a2sEc6ILx",
+      "freq_mins" : 15,
+      "warning" : "arn:aws:sns:us-east-1:(AWS_ACCT_ID:SNS_TOPIC_NAME)",
+      "error" : "arn:aws:sns:us-east-1:(AWS_ACCT_ID:SNS_TOPIC_NAME)"
+      },
+      {
+      "check_id" : "xSqX82fQu",
+      "freq_mins" : 15,
+      "warning" : "arn:aws:sns:us-east-1:(AWS_ACCT_ID:SNS_TOPIC_NAME)",
+      "error" : "arn:aws:sns:us-east-1:(AWS_ACCT_ID:SNS_TOPIC_NAME)"
+      },
+      {
+      "check_id" : "12Fnkpl8Y5",
+      "freq_mins" : 15,
+      "warning" : "arn:aws:sns:us-east-1:(AWS_ACCT_ID:SNS_TOPIC_NAME)",
+      "error" : "arn:aws:sns:us-east-1:(AWS_ACCT_ID:SNS_TOPIC_NAME)"
+      },
+      {
+      "check_id" : "DqdJqYeRm5",
+      "freq_mins" : 15,
+      "warning" : "arn:aws:sns:us-east-1:(AWS_ACCT_ID:SNS_TOPIC_NAME)",
+      "error" : "arn:aws:sns:us-east-1:(AWS_ACCT_ID:SNS_TOPIC_NAME)"
+      },
+      {
+      "check_id" : "Yw2K9puPzl",
+      "freq_mins" : 15,
+      "warning" : "arn:aws:sns:us-east-1:(AWS_ACCT_ID:SNS_TOPIC_NAME)",
+      "error" : "arn:aws:sns:us-east-1:(AWS_ACCT_ID:SNS_TOPIC_NAME)"
+      },
+      {
+      "check_id" : "zXCkfM1nI3",
+      "freq_mins" : 15,
+      "warning" : "arn:aws:sns:us-east-1:(AWS_ACCT_ID:SNS_TOPIC_NAME)",
+      "error" : "arn:aws:sns:us-east-1:(AWS_ACCT_ID:SNS_TOPIC_NAME)"
+      },
+      {
+      "check_id" : "7DAFEmoDos",
+      "freq_mins" : 15,
+      "warning" : "arn:aws:sns:us-east-1:(AWS_ACCT_ID:SNS_TOPIC_NAME)",
+      "error" : "arn:aws:sns:us-east-1:(AWS_ACCT_ID:SNS_TOPIC_NAME)"
+      },
+      {
+      "check_id" : "HCP4007jGY",
+      "freq_mins" : 15,
+      "warning" : "arn:aws:sns:us-east-1:(AWS_ACCT_ID:SNS_TOPIC_NAME)",
+      "error" : "arn:aws:sns:us-east-1:(AWS_ACCT_ID:SNS_TOPIC_NAME)"
+      },
+      {
+      "check_id" : "1iG5NDGVre",
+      "freq_mins" : 15,
+      "warning" : "arn:aws:sns:us-east-1:(AWS_ACCT_ID:SNS_TOPIC_NAME)",
+      "error" : "arn:aws:sns:us-east-1:(AWS_ACCT_ID:SNS_TOPIC_NAME)"
+      }
+  ]
+}

@@ -1,0 +1,7 @@
+{
+  "account" : "infra",
+  "description" : "Account Trust Check Definitions",
+  "zutrust_template_format_version" : "2018-07-17"
+  "bucket" : "zutrust-test-infra",
+  "S3_suffix" : "infra"
+}

@@ -1,0 +1,10 @@
+{
+  "account" : "infra",
+  "description" : "Account Trust Check Definitions",
+  "zutrust_template_format_version" : "2018-07-17",
+  "bucket" : "zutrust-test-bucket",
+  "S3_suffix" : "infra",
+  "send_report" : true,
+  "report_ARN" : "arn:aws:sns:us-east-1:480032118204:zu_smtp_html",
+  "TA_link" : "https://console.aws.amazon.com/trustedadvisor/home#/dashboard"
+}
